@@ -11,6 +11,7 @@ Must be changed with the local ip address of the device running the server.
 After the above change the [Java Android Cloud Server](https://github.com/Adrian-Gonzalez-Madruga/CloudServer) must be running for the Cloud Client to connect and share data.
 
 ## View Project
+Click below to view video of the project being used
 [![CloudClientr Youtube](http://img.youtube.com/vi/x-qbk-35JNc/0.jpg)](http://www.youtube.com/watch?v=x-qbk-35JNc "CloudClient")
 
 ## Built With
