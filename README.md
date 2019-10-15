@@ -36,4 +36,4 @@ Click below to view video of the project being used
 ## Authors
 
 * **[Adrian Gonzalez Madruga](https://github.com/Adrian-Gonzalez-Madruga)** - *Server Communication, The Manipulation, Display, Download, and Upload of Files*
-* **[Connor Clarkson](https://github.com/clarksoc)** - *Login Page, Recycler View Elements, Notifications, Asynchrounous Task Managment*
+* **[Connor Clarkson](https://github.com/clarksoc)** - *Login Page, Recycler View Elements, Notifications, Asynchrounous Task Managment *
